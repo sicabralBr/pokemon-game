@@ -1,2 +1,2 @@
 # pokemon_game
-Choose a pokemon and obtain his infp
+- Choose a pokemon and obtain its info
